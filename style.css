@@ -1,0 +1,12 @@
+.test1{
+    float: right;
+}
+.test2{
+    float: left;
+}
+.wrapper{
+    background-color: brown;
+}
+.clear{
+    clear: both;
+}
